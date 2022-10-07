@@ -1,4 +1,31 @@
-.container {
-  background: rgba(213, 225, 239, 1);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+.container {
+  height: 667px;
+  width: 375px;
+  border-radius: 0;
+  background: #d5e1ef;
+}
+
+.content {
+  height: 497px;
+  width: 320px;
+  left: 28px;
+  top: 85px;
+  border-radius: 20px;
+  background: #fff;
+  /* padding: 84px 27px 84px 28px; */
+}
+
+.image {
+  background-image: url('images/image-qr-code.png');
+  height: 288px;
+  width: 288px;
+  border-radius: 10px;
+  /* width: 80%;
+  height: 50%; */
 }
