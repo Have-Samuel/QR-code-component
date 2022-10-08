@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Github](https://github.com/Have-Samuel/QR-code-component)
-- [Live Demo]()
+- [Live Demo](https://qr-rq-component.netlify.app/)
 
 ## My process
 
@@ -43,7 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Have-Samuel/product-preview-card-component/issues).
+Feel free to check the [issues page](https://github.com/Have-Samuel/QR-code-component/issues).
 
 ## Show your support
 
