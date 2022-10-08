@@ -7,18 +7,18 @@
 .container {
   height: 667px;
   width: 375px;
-  border-radius: 0;
   background: #d5e1ef;
+  margin: 0 auto;
+  display: flex;
 }
 
 .content {
   height: 497px;
   width: 320px;
-  left: 28px;
-  top: 85px;
+  display: flex;
+  margin: auto;
   border-radius: 20px;
   background: #fff;
-  /* padding: 84px 27px 84px 28px; */
 }
 
 .image {
