@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Github](https://github.com/Have-Samuel/QR-code-component)
-- [Live Demo](https://qr-rq-component.netlify.app/)
+- [Live Demo](https://dashing-rq-qr-51f508.netlify.app/)
 
 ## My process
 
